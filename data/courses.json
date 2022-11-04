@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "img": "https://i.ibb.co/XtJ26JV/html.png",
+        "course": "HTML",
+        "discription": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!",
+        "time": 60
+    },
+    {
+        "id": 102,
+        "img": "https://i.ibb.co/fDdN0zX/css.png",
+        "course": "CSS3",
+        "discription": "CSS is the language we use to style an HTML document. CSS describes how each HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced.",
+        "time": 90
+    },
+    {
+        "id": 103,
+        "img": "https://i.ibb.co/Xs9qRSF/bootstrap.png",
+        "course": "Bootstrap",
+        "discription": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+        "time": 30
+    },
+    {
+        "id": 104,
+        "img": "https://i.ibb.co/1ZMvwNX/tailwind.png",
+        "course": "TailWind",
+        "discription": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS. The perfect starting point for your next project.",
+        "time": 45
+    },
+    {
+        "id": 105,
+        "img": "https://i.ibb.co/vXHCFLk/javascript.png",
+        "course": "JavaScript",
+        "discription": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn.",
+        "time": 120
+    },
+    {
+        "id": 106,
+        "img": "https://i.ibb.co/k9W3bV0/react.png",
+        "course": "React JS",
+        "discription": "Declarative. React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state, then compose ...",
+        "time": 150
+    }
+  ]
